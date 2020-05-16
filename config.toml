@@ -87,7 +87,7 @@ disableHugoGeneratorInject = false
     theme = "#252627"
 
   [params.logo]
-    logoText     = "lukeduffy11@githubpages $"
+    logoText     = "lukeduffy11@github $"
     logoHomeLink = "/"
     # Set true to remove the logo cursor entirely.
     # logoCursorDisabled = false
@@ -103,7 +103,7 @@ disableHugoGeneratorInject = false
   # Social icons
   [[params.social]]
     name = "twitter"
-    url  = "https://twitter.com/"
+    url  = "https://twitter.com/lukeduffy11"
 
   #[[params.social]]
     #name = "email"
@@ -111,7 +111,7 @@ disableHugoGeneratorInject = false
 
   [[params.social]]
     name = "github"
-    url  = "https://github.com/"
+    url  = "https://github.com/lukeduffy11"
 
   #[[params.social]]
     #name = "linkedin"

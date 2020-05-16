@@ -1,7 +1,10 @@
-baseURL = "/"
-title   = "luke duffy"
+baseURL = "https://lukeduffy11.github.io/"
 languageCode = "en-us"
+title = "luke duffy"
 theme = "hello-friend-ng"
+#disqusShortname = "username" # delete this to disable disqus comments
+googleAnalytics = ""
+publishDir = "lukeduffy11.github.io"
 
 PygmentsCodeFences = true
 PygmentsStyle = "monokai"
@@ -17,7 +20,6 @@ archetypeDir = "archetypes"
 contentDir   = "content"
 dataDir      = "data"
 layoutDir    = "layouts"
-publishDir   = "public"
 
 buildDrafts  = false
 buildFuture  = false
@@ -129,7 +131,7 @@ disableHugoGeneratorInject = false
   [[menu.main]]
     identifier = "about"
     name       = "About"
-    url        = "about/"
+    url        = "about/index.html"
   [[menu.main]]
     identifier = "posts"
     name       = "Posts"
